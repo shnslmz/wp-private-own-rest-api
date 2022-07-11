@@ -1,5 +1,3 @@
-// This plugin was created by me for a basic test.
-
 === Private Own REST API ===
 Tags: api, private rest, your own api
 Requires at least: 4.9
@@ -32,7 +30,12 @@ This plugin shows JSONplaceHolder's (API) users list and their detail info on a 
 
 
 
+== Note ==
+This plugin was created by me for a test.
+
+
 == Development process fiction summary: ==
+
 ● When the plugin is activated, an option record is created (if not created before),
 ● In this option:
    ○ guid,
@@ -65,3 +68,5 @@ can be done.
    ○ After the plugin is installed, the access permission of the editors is set to true by default,
    ○ The administrator can set this field to false to make the access exclusive to administrators only.
 ● readme, and license files made in c/p.
+
+
