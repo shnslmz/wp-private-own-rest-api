@@ -12,3 +12,5 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 This plugin shows JSONplaceHolder's (API) users list and their detail info on a DataTable, a private WP virtual page and/or existing page/post using Wordpress shortcode.
  => The default API URL for user listing: https://jsonplaceholder.typicode.com/users
  => The default API URL for user listing: https://jsonplaceholder.typicode.com/users/{id}/posts
+ 
+ ![alt text](https://prnt.sc/rjOrl7p1jyyG)
