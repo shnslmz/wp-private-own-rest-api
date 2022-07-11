@@ -1,0 +1,28 @@
+#WPP_main{
+	margin-top:40px !important;
+	width:70%;
+	min-width: 350px;
+	height: auto;
+	position:relative;
+	margin: 0 auto; 
+	padding: 50px 20px;
+	border: 2px solid #ccc;
+	border-radius: 5px; 
+	font-size: 15px;
+	background: #fff;
+}
+#WPP_main > h1{
+	font-size: 20px;
+	font-weight: bold;
+} 
+
+#WPP_main > input{
+	padding:5px;
+	width:50%;
+}
+
+#WPP_main > ul, li {list-style: disc !important;}
+#WPP_main > ul {padding-left:30px;} 
+#WPP_main > a {font-weight:bold;font-size:16px;}
+
+.wpp-successfull{color: green; font-weight:bold; padding:10px;}
