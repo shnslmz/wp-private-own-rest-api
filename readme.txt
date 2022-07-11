@@ -13,4 +13,4 @@ This plugin shows JSONplaceHolder's (API) users list and their detail info on a 
  => The default API URL for user listing: https://jsonplaceholder.typicode.com/users
  => The default API URL for user listing: https://jsonplaceholder.typicode.com/users/{id}/posts
  
- ![alt text](https://prnt.sc/rjOrl7p1jyyG)
+ ![alt text](http://www.dermalina.com/wp-content/uploads/2020/12/no-image.jpg)
