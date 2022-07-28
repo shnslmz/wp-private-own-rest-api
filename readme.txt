@@ -17,7 +17,7 @@ This plugin shows JSONplaceHolder's (API) users list and their detail info on a 
 == The screenshots == 
 
 # The Plugin Settings Page:
-=> https://user-images.githubusercontent.com/13356931/178255095-590a2778-1298-45e0-a1b3-f03a3e05f28b.png
+<img width="852" alt="1-178255095-590a2778-1298-45e0-a1b3-f03a3e05f28b" src="https://user-images.githubusercontent.com/13356931/181321161-014c2edc-d8b7-47a0-ba99-bb969d58ccdc.png">
 
 # The Plugin Page to show on an existed Wordpress Admin Page (It is created by the plugin as auto).
 => https://user-images.githubusercontent.com/13356931/178255330-176aa134-7799-4ed2-ba5b-3f5beda575b8.png
