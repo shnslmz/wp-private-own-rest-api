@@ -59,11 +59,11 @@ out of the way and written.
 ● Request to the detail page of the relevant API when clicking on any data row
 discarded and the articles belonging to that user are pulled and displayed as a popup.
 
-● If the plugin is disabled, the default page is removed and the wp_options variable line is deleted,
-● When the plugin is installed and activated, the table and default page are created.
-● Besides automatically creating an existing page for WP, a virtual page is also created and the url (slug) of this page is created via the administration panel.
+* If the plugin is disabled, the default page is removed and the wp_options variable line is deleted,
+* When the plugin is installed and activated, the table and default page are created.
+* Besides automatically creating an existing page for WP, a virtual page is also created and the url (slug) of this page is created via the administration panel.
 can be done. 
-● In terms of changing the appearance of the plugin's page, the plugin files must first be added to the theme. files are loaded later and the plugin files contain a priority like !important. Since the rule set is not defined, it will be overridden directly. Example: The h4 style rule in the main.css file in the public folder of the plugin, Override the h4 rule in the style.css file of the default theme twentytwenty is an example (5px makes the margin 4.5rem auto 2.5rem).
+* In terms of changing the appearance of the plugin's page, the plugin files must first be added to the theme. files are loaded later and the plugin files contain a priority like !important. Since the rule set is not defined, it will be overridden directly. Example: The h4 style rule in the main.css file in the public folder of the plugin, Override the h4 rule in the style.css file of the default theme twentytwenty is an example (5px makes the margin 4.5rem auto 2.5rem).
 
 ● Access control to the settings page:
 <br /> 
